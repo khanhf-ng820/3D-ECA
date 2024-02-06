@@ -43,9 +43,6 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 renderer.setClearColor(0x353935, 1);
 document.body.appendChild(renderer.domElement);
 
-var axesHelper = new THREE.AxesHelper( 50 );
-scene.add( axesHelper );
-
 const controls = new OrbitControls( camera, renderer.domElement );
 controls.enableDamping = true;
 
