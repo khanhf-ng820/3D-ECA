@@ -7,4 +7,4 @@ Best used when downloaded and ran locally on your computer.\
 \
 Press **1** to view all generations.\
 Press **2** to view each individual generation.\
-Use the Up or Down arrow keys to move between generations.
+Use **Up or Down arrow keys** to move between generations.
