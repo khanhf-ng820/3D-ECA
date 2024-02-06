@@ -2,7 +2,7 @@
 3D Elementary Cellular Automaton
 
 Best used when downloaded and ran locally on your computer.\
-**In ```script.js```, you can only change these variables as you like: ruleSet, width, boxWidth, totalGens.\
+**In **```script.js```**, you can only change these variables as you like: ruleSet, width, boxWidth, totalGens.\
 Other variables should not be changed as they are crucial to the code.**\
 \
 Press **1** to view all generations.\
