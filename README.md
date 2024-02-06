@@ -1,5 +1,7 @@
 # 3D-ECA
-3D Elementary Cellular Automaton
+3D Elementary Cellular Automaton\
+\
+![Preview](preview.png)
 
 Best used when downloaded and ran locally on your computer.\
 **In** ```script.js``` **you can only change these variables as you like: ruleSet, width, boxWidth, totalGens.**\
